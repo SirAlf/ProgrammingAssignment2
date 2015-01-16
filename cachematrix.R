@@ -1,4 +1,4 @@
-## This function caches the inverse of a matrix
+## This function  caches  the inverse of a matrix
 ## 
 
 ## The makeCacheMatrix creates a special "matrix" object that can cache
